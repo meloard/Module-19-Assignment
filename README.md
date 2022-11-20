@@ -26,6 +26,8 @@ https://text-editor-pwa-19.herokuapp.com/
 
 ![3EB572B4-E49F-4A8D-8EAA-A6FE28B0BB8E](https://user-images.githubusercontent.com/112831268/202931782-6b621887-5451-4318-a3f8-83f754483de3.jpeg)
 
+Heroku build - succeeded, deployement 
+
 ![80137A05-0E98-44E9-BF57-61607F7B3F57](https://user-images.githubusercontent.com/112831268/202931786-f5e1b920-c97a-4af5-8609-c500eca6c962.jpeg)
 
 
